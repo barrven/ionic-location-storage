@@ -1,0 +1,7 @@
+{
+  "name": "StoreMyLocation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
